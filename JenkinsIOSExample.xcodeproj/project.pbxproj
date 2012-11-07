@@ -22,6 +22,8 @@
 		BC22506813B2BA940006D350 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BC22506613B2BA940006D350 /* InfoPlist.strings */; };
 		BC22506B13B2BA940006D350 /* JenkinsIOSExampleTests.h in Resources */ = {isa = PBXBuildFile; fileRef = BC22506A13B2BA940006D350 /* JenkinsIOSExampleTests.h */; };
 		BC22506D13B2BA940006D350 /* JenkinsIOSExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BC22506C13B2BA940006D350 /* JenkinsIOSExampleTests.m */; };
+		E41D17AB164A9200006C7D12 /* JenkinsIOSExampleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BC22505313B2BA940006D350 /* JenkinsIOSExampleViewController.m */; };
+		E41D17AD164A9209006C7D12 /* JenkinsIOSExampleViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BC22505513B2BA940006D350 /* JenkinsIOSExampleViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -234,6 +236,7 @@
 			files = (
 				BC22506813B2BA940006D350 /* InfoPlist.strings in Resources */,
 				BC22506B13B2BA940006D350 /* JenkinsIOSExampleTests.h in Resources */,
+				E41D17AD164A9209006C7D12 /* JenkinsIOSExampleViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,6 +275,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC22506D13B2BA940006D350 /* JenkinsIOSExampleTests.m in Sources */,
+				E41D17AB164A9200006C7D12 /* JenkinsIOSExampleViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
