@@ -7,7 +7,7 @@
 //
 
 #import "JenkinsIOSExampleTests.h"
-
+#import "JenkinsIOSExampleViewController.h"
 
 @implementation JenkinsIOSExampleTests
 
